@@ -28,107 +28,28 @@
 		70464E712349DA5E003B0150 /* MyParticleExplotion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70464E682349DA5E003B0150 /* MyParticleExplotion.sks */; };
 		70464E722349DA5E003B0150 /* MyParticleExplotion2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70464E692349DA5E003B0150 /* MyParticleExplotion2.sks */; };
 		70464EDC2349DF41003B0150 /* uranus.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E752349DF41003B0150 /* uranus.png */; };
-		70464EDD2349DF41003B0150 /* bullet.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E762349DF41003B0150 /* bullet.png */; };
-		70464EDE2349DF41003B0150 /* mars (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E772349DF41003B0150 /* mars (1).png */; };
 		70464EDF2349DF41003B0150 /* first-aid-kit.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E782349DF41003B0150 /* first-aid-kit.png */; };
-		70464EE02349DF41003B0150 /* Teal.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E792349DF41003B0150 /* Teal.png */; };
-		70464EE12349DF41003B0150 /* ufo (4).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E7A2349DF41003B0150 /* ufo (4).png */; };
-		70464EE22349DF41003B0150 /* record.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E7B2349DF41003B0150 /* record.png */; };
-		70464EE32349DF41003B0150 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E7C2349DF41003B0150 /* stop.png */; };
-		70464EE42349DF41003B0150 /* battery.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E7D2349DF41003B0150 /* battery.png */; };
-		70464EE52349DF41003B0150 /* space-ship (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E7E2349DF41003B0150 /* space-ship (2).png */; };
-		70464EE62349DF41003B0150 /* bullet (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E7F2349DF41003B0150 /* bullet (1).png */; };
 		70464EE72349DF41003B0150 /* flash.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E802349DF41003B0150 /* flash.png */; };
-		70464EE82349DF41003B0150 /* degres.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E812349DF41003B0150 /* degres.png */; };
-		70464EE92349DF41003B0150 /* ufo (8).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E822349DF41003B0150 /* ufo (8).png */; };
 		70464EEA2349DF41003B0150 /* satellite.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E832349DF41003B0150 /* satellite.png */; };
-		70464EEB2349DF41003B0150 /* battery (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E842349DF41003B0150 /* battery (1).png */; };
-		70464EEC2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464E852349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn10.jpg */; };
 		70464EED2349DF41003B0150 /* lander.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E862349DF41003B0150 /* lander.png */; };
-		70464EEE2349DF41003B0150 /* planet-earth (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E872349DF41003B0150 /* planet-earth (1).png */; };
-		70464EEF2349DF41003B0150 /* gray.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E882349DF41003B0150 /* gray.png */; };
-		70464EF02349DF41003B0150 /* ufo (9).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E892349DF41003B0150 /* ufo (9).png */; };
-		70464EF12349DF41003B0150 /* IMG_2016-11-06 19:31:21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464E8A2349DF41003B0150 /* IMG_2016-11-06 19:31:21.jpg */; };
 		70464EF22349DF41003B0150 /* planet.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E8B2349DF41003B0150 /* planet.png */; };
-		70464EF32349DF41003B0150 /* Lime.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E8C2349DF41003B0150 /* Lime.png */; };
-		70464EF42349DF41003B0150 /* minuss.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E8D2349DF41003B0150 /* minuss.png */; };
-		70464EF52349DF41003B0150 /* record (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E8E2349DF41003B0150 /* record (1).png */; };
-		70464EF62349DF41003B0150 /* ufo (5).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E8F2349DF41003B0150 /* ufo (5).png */; };
 		70464EF72349DF41003B0150 /* mars.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E902349DF41003B0150 /* mars.png */; };
 		70464EF82349DF41003B0150 /* jupiter.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E912349DF41003B0150 /* jupiter.png */; };
-		70464EF92349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464E922349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn0.jpg */; };
 		70464EFA2349DF41003B0150 /* wheel.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E932349DF41003B0150 /* wheel.png */; };
 		70464EFB2349DF41003B0150 /* energy.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E942349DF41003B0150 /* energy.png */; };
-		70464EFC2349DF41003B0150 /* electricity (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E952349DF41003B0150 /* electricity (1).png */; };
-		70464EFD2349DF41003B0150 /* christmas-present (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E962349DF41003B0150 /* christmas-present (1).png */; };
-		70464EFE2349DF41003B0150 /* categoryicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E972349DF41003B0150 /* categoryicon.png */; };
 		70464EFF2349DF41003B0150 /* rocket-ship.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E982349DF41003B0150 /* rocket-ship.png */; };
-		70464F002349DF41003B0150 /* Blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E992349DF41003B0150 /* Blue.png */; };
-		70464F012349DF41003B0150 /* Stop_button_play_pause_music.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E9A2349DF41003B0150 /* Stop_button_play_pause_music.png */; };
-		70464F022349DF41003B0150 /* ufo (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E9B2349DF41003B0150 /* ufo (2).png */; };
-		70464F032349DF41003B0150 /* rocket-ship (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E9C2349DF41003B0150 /* rocket-ship (1).png */; };
-		70464F042349DF41003B0150 /* alien (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E9D2349DF41003B0150 /* alien (2).png */; };
-		70464F052349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464E9E2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn2.jpg */; };
-		70464F062349DF41003B0150 /* chart3.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464E9F2349DF41003B0150 /* chart3.png */; };
-		70464F072349DF41003B0150 /* ufo (3).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA02349DF41003B0150 /* ufo (3).png */; };
-		70464F082349DF41003B0150 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA12349DF41003B0150 /* home.png */; };
-		70464F092349DF41003B0150 /* diamond (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA22349DF41003B0150 /* diamond (2).png */; };
-		70464F0A2349DF41003B0150 /* pauseRec.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA32349DF41003B0150 /* pauseRec.png */; };
-		70464F0B2349DF41003B0150 /* bullets.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA42349DF41003B0150 /* bullets.png */; };
-		70464F0C2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA52349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn7.jpg */; };
-		70464F0D2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA62349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn5.jpg */; };
-		70464F0E2349DF41003B0150 /* engagement-ring (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA72349DF41003B0150 /* engagement-ring (2).png */; };
-		70464F0F2349DF41003B0150 /* Grape.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA82349DF41003B0150 /* Grape.png */; };
-		70464F102349DF41003B0150 /* loss.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EA92349DF41003B0150 /* loss.png */; };
-		70464F112349DF41003B0150 /* audio512x512.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EAA2349DF41003B0150 /* audio512x512.png */; };
 		70464F122349DF41003B0150 /* solar-system.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EAB2349DF41003B0150 /* solar-system.png */; };
-		70464F132349DF41003B0150 /* chart1.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EAC2349DF41003B0150 /* chart1.png */; };
-		70464F142349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464EAD2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn4.jpg */; };
-		70464F152349DF41003B0150 /* engagement-ring (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EAE2349DF41003B0150 /* engagement-ring (1).png */; };
-		70464F162349DF41003B0150 /* Record_button_play_stop_music.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EAF2349DF41003B0150 /* Record_button_play_stop_music.png */; };
-		70464F172349DF41003B0150 /* Orange.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB02349DF41003B0150 /* Orange.png */; };
 		70464F182349DF41003B0150 /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB12349DF41003B0150 /* moon.png */; };
-		70464F192349DF41003B0150 /* IconCategory.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB22349DF41003B0150 /* IconCategory.png */; };
-		70464F1A2349DF41003B0150 /* plus (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB32349DF41003B0150 /* plus (1).png */; };
-		70464F1B2349DF41003B0150 /* comet.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB42349DF41003B0150 /* comet.png */; };
-		70464F1C2349DF41003B0150 /* diamond (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB52349DF41003B0150 /* diamond (1).png */; };
-		70464F1D2349DF41003B0150 /* Green.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB62349DF41003B0150 /* Green.png */; };
 		70464F1E2349DF41003B0150 /* bullet_red.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB72349DF41003B0150 /* bullet_red.png */; };
-		70464F1F2349DF41003B0150 /* planet-earth.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB82349DF41003B0150 /* planet-earth.png */; };
-		70464F202349DF41003B0150 /* error.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EB92349DF41003B0150 /* error.png */; };
-		70464F212349DF41003B0150 /* shuffle.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EBA2349DF41003B0150 /* shuffle.png */; };
 		70464F222349DF41003B0150 /* alien.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EBB2349DF41003B0150 /* alien.png */; };
-		70464F232349DF41003B0150 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EBC2349DF41003B0150 /* pause.png */; };
-		70464F242349DF41003B0150 /* profits.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EBD2349DF41003B0150 /* profits.png */; };
 		70464F252349DF41003B0150 /* ufo.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EBE2349DF41003B0150 /* ufo.png */; };
-		70464F262349DF41003B0150 /* planet (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EBF2349DF41003B0150 /* planet (1).png */; };
-		70464F272349DF41003B0150 /* alien (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC02349DF41003B0150 /* alien (1).png */; };
-		70464F282349DF41003B0150 /* ufo (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC12349DF41003B0150 /* ufo (1).png */; };
 		70464F292349DF41003B0150 /* christmas-present.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC22349DF41003B0150 /* christmas-present.png */; };
 		70464F2A2349DF41003B0150 /* space-ship.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC32349DF41003B0150 /* space-ship.png */; };
-		70464F2B2349DF41003B0150 /* electricity.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC42349DF41003B0150 /* electricity.png */; };
 		70464F2C2349DF41003B0150 /* diamond.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC52349DF41003B0150 /* diamond.png */; };
-		70464F2D2349DF41003B0150 /* IMG_2016-11-04 01:35:31.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC62349DF41003B0150 /* IMG_2016-11-04 01:35:31.jpg */; };
-		70464F2E2349DF41003B0150 /* ufo (6).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC72349DF41003B0150 /* ufo (6).png */; };
 		70464F2F2349DF41003B0150 /* meteor.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC82349DF41003B0150 /* meteor.png */; };
-		70464F302349DF41003B0150 /* crane.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EC92349DF41003B0150 /* crane.png */; };
-		70464F312349DF41003B0150 /* planet-earth (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ECA2349DF41003B0150 /* planet-earth (2).png */; };
-		70464F322349DF41003B0150 /* jupiter (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ECB2349DF41003B0150 /* jupiter (1).png */; };
-		70464F332349DF41003B0150 /* rec.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ECC2349DF41003B0150 /* rec.png */; };
 		70464F342349DF41003B0150 /* lander copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ECD2349DF41003B0150 /* lander copy.png */; };
-		70464F352349DF41003B0150 /* stop (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ECE2349DF41003B0150 /* stop (1).png */; };
-		70464F362349DF41003B0150 /* engagement-ring.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ECF2349DF41003B0150 /* engagement-ring.png */; };
-		70464F372349DF41003B0150 /* real-pixel2.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED02349DF41003B0150 /* real-pixel2.png */; };
 		70464F382349DF41003B0150 /* coin.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED12349DF41003B0150 /* coin.png */; };
-		70464F392349DF41003B0150 /* space-ship (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED22349DF41003B0150 /* space-ship (1).png */; };
 		70464F3A2349DF41003B0150 /* saturn.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED32349DF41003B0150 /* saturn.png */; };
-		70464F3B2349DF41003B0150 /* bullet (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED42349DF41003B0150 /* bullet (2).png */; };
-		70464F3C2349DF41003B0150 /* play-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED52349DF41003B0150 /* play-button.png */; };
-		70464F3D2349DF41003B0150 /* coin (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED62349DF41003B0150 /* coin (1).png */; };
-		70464F3E2349DF41003B0150 /* save.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED72349DF41003B0150 /* save.png */; };
-		70464F3F2349DF41003B0150 /* Red.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED82349DF41003B0150 /* Red.png */; };
-		70464F402349DF41003B0150 /* Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464ED92349DF41003B0150 /* Purple.png */; };
-		70464F412349DF41003B0150 /* ufo (7).png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EDA2349DF41003B0150 /* ufo (7).png */; };
 		70464F422349DF41003B0150 /* space-shuttle.png in Resources */ = {isa = PBXBuildFile; fileRef = 70464EDB2349DF41003B0150 /* space-shuttle.png */; };
 /* End PBXBuildFile section */
 
@@ -156,107 +77,28 @@
 		70464E682349DA5E003B0150 /* MyParticleExplotion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticleExplotion.sks; sourceTree = "<group>"; };
 		70464E692349DA5E003B0150 /* MyParticleExplotion2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticleExplotion2.sks; sourceTree = "<group>"; };
 		70464E752349DF41003B0150 /* uranus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = uranus.png; sourceTree = "<group>"; };
-		70464E762349DF41003B0150 /* bullet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet.png; sourceTree = "<group>"; };
-		70464E772349DF41003B0150 /* mars (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mars (1).png"; sourceTree = "<group>"; };
 		70464E782349DF41003B0150 /* first-aid-kit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first-aid-kit.png"; sourceTree = "<group>"; };
-		70464E792349DF41003B0150 /* Teal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Teal.png; sourceTree = "<group>"; };
-		70464E7A2349DF41003B0150 /* ufo (4).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (4).png"; sourceTree = "<group>"; };
-		70464E7B2349DF41003B0150 /* record.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = record.png; sourceTree = "<group>"; };
-		70464E7C2349DF41003B0150 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
-		70464E7D2349DF41003B0150 /* battery.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = battery.png; sourceTree = "<group>"; };
-		70464E7E2349DF41003B0150 /* space-ship (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "space-ship (2).png"; sourceTree = "<group>"; };
-		70464E7F2349DF41003B0150 /* bullet (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bullet (1).png"; sourceTree = "<group>"; };
 		70464E802349DF41003B0150 /* flash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flash.png; sourceTree = "<group>"; };
-		70464E812349DF41003B0150 /* degres.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = degres.png; sourceTree = "<group>"; };
-		70464E822349DF41003B0150 /* ufo (8).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (8).png"; sourceTree = "<group>"; };
 		70464E832349DF41003B0150 /* satellite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = satellite.png; sourceTree = "<group>"; };
-		70464E842349DF41003B0150 /* battery (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "battery (1).png"; sourceTree = "<group>"; };
-		70464E852349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ir.hamraah.app.hamraah.dars.amn10.jpg; sourceTree = "<group>"; };
 		70464E862349DF41003B0150 /* lander.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lander.png; sourceTree = "<group>"; };
-		70464E872349DF41003B0150 /* planet-earth (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet-earth (1).png"; sourceTree = "<group>"; };
-		70464E882349DF41003B0150 /* gray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gray.png; sourceTree = "<group>"; };
-		70464E892349DF41003B0150 /* ufo (9).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (9).png"; sourceTree = "<group>"; };
-		70464E8A2349DF41003B0150 /* IMG_2016-11-06 19:31:21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG_2016-11-06 19:31:21.jpg"; sourceTree = "<group>"; };
 		70464E8B2349DF41003B0150 /* planet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = planet.png; sourceTree = "<group>"; };
-		70464E8C2349DF41003B0150 /* Lime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lime.png; sourceTree = "<group>"; };
-		70464E8D2349DF41003B0150 /* minuss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minuss.png; sourceTree = "<group>"; };
-		70464E8E2349DF41003B0150 /* record (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "record (1).png"; sourceTree = "<group>"; };
-		70464E8F2349DF41003B0150 /* ufo (5).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (5).png"; sourceTree = "<group>"; };
 		70464E902349DF41003B0150 /* mars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mars.png; sourceTree = "<group>"; };
 		70464E912349DF41003B0150 /* jupiter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jupiter.png; sourceTree = "<group>"; };
-		70464E922349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ir.hamraah.app.hamraah.dars.amn0.jpg; sourceTree = "<group>"; };
 		70464E932349DF41003B0150 /* wheel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wheel.png; sourceTree = "<group>"; };
 		70464E942349DF41003B0150 /* energy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = energy.png; sourceTree = "<group>"; };
-		70464E952349DF41003B0150 /* electricity (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "electricity (1).png"; sourceTree = "<group>"; };
-		70464E962349DF41003B0150 /* christmas-present (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "christmas-present (1).png"; sourceTree = "<group>"; };
-		70464E972349DF41003B0150 /* categoryicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = categoryicon.png; sourceTree = "<group>"; };
 		70464E982349DF41003B0150 /* rocket-ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rocket-ship.png"; sourceTree = "<group>"; };
-		70464E992349DF41003B0150 /* Blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Blue.png; sourceTree = "<group>"; };
-		70464E9A2349DF41003B0150 /* Stop_button_play_pause_music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Stop_button_play_pause_music.png; sourceTree = "<group>"; };
-		70464E9B2349DF41003B0150 /* ufo (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (2).png"; sourceTree = "<group>"; };
-		70464E9C2349DF41003B0150 /* rocket-ship (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rocket-ship (1).png"; sourceTree = "<group>"; };
-		70464E9D2349DF41003B0150 /* alien (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alien (2).png"; sourceTree = "<group>"; };
-		70464E9E2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ir.hamraah.app.hamraah.dars.amn2.jpg; sourceTree = "<group>"; };
-		70464E9F2349DF41003B0150 /* chart3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chart3.png; sourceTree = "<group>"; };
-		70464EA02349DF41003B0150 /* ufo (3).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (3).png"; sourceTree = "<group>"; };
-		70464EA12349DF41003B0150 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
-		70464EA22349DF41003B0150 /* diamond (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "diamond (2).png"; sourceTree = "<group>"; };
-		70464EA32349DF41003B0150 /* pauseRec.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseRec.png; sourceTree = "<group>"; };
-		70464EA42349DF41003B0150 /* bullets.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullets.png; sourceTree = "<group>"; };
-		70464EA52349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ir.hamraah.app.hamraah.dars.amn7.jpg; sourceTree = "<group>"; };
-		70464EA62349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ir.hamraah.app.hamraah.dars.amn5.jpg; sourceTree = "<group>"; };
-		70464EA72349DF41003B0150 /* engagement-ring (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "engagement-ring (2).png"; sourceTree = "<group>"; };
-		70464EA82349DF41003B0150 /* Grape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Grape.png; sourceTree = "<group>"; };
-		70464EA92349DF41003B0150 /* loss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = loss.png; sourceTree = "<group>"; };
-		70464EAA2349DF41003B0150 /* audio512x512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = audio512x512.png; sourceTree = "<group>"; };
 		70464EAB2349DF41003B0150 /* solar-system.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "solar-system.png"; sourceTree = "<group>"; };
-		70464EAC2349DF41003B0150 /* chart1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chart1.png; sourceTree = "<group>"; };
-		70464EAD2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ir.hamraah.app.hamraah.dars.amn4.jpg; sourceTree = "<group>"; };
-		70464EAE2349DF41003B0150 /* engagement-ring (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "engagement-ring (1).png"; sourceTree = "<group>"; };
-		70464EAF2349DF41003B0150 /* Record_button_play_stop_music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Record_button_play_stop_music.png; sourceTree = "<group>"; };
-		70464EB02349DF41003B0150 /* Orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Orange.png; sourceTree = "<group>"; };
 		70464EB12349DF41003B0150 /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
-		70464EB22349DF41003B0150 /* IconCategory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IconCategory.png; sourceTree = "<group>"; };
-		70464EB32349DF41003B0150 /* plus (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plus (1).png"; sourceTree = "<group>"; };
-		70464EB42349DF41003B0150 /* comet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comet.png; sourceTree = "<group>"; };
-		70464EB52349DF41003B0150 /* diamond (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "diamond (1).png"; sourceTree = "<group>"; };
-		70464EB62349DF41003B0150 /* Green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Green.png; sourceTree = "<group>"; };
 		70464EB72349DF41003B0150 /* bullet_red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet_red.png; sourceTree = "<group>"; };
-		70464EB82349DF41003B0150 /* planet-earth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet-earth.png"; sourceTree = "<group>"; };
-		70464EB92349DF41003B0150 /* error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = error.png; sourceTree = "<group>"; };
-		70464EBA2349DF41003B0150 /* shuffle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shuffle.png; sourceTree = "<group>"; };
 		70464EBB2349DF41003B0150 /* alien.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alien.png; sourceTree = "<group>"; };
-		70464EBC2349DF41003B0150 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
-		70464EBD2349DF41003B0150 /* profits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profits.png; sourceTree = "<group>"; };
 		70464EBE2349DF41003B0150 /* ufo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ufo.png; sourceTree = "<group>"; };
-		70464EBF2349DF41003B0150 /* planet (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet (1).png"; sourceTree = "<group>"; };
-		70464EC02349DF41003B0150 /* alien (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alien (1).png"; sourceTree = "<group>"; };
-		70464EC12349DF41003B0150 /* ufo (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (1).png"; sourceTree = "<group>"; };
 		70464EC22349DF41003B0150 /* christmas-present.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "christmas-present.png"; sourceTree = "<group>"; };
 		70464EC32349DF41003B0150 /* space-ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "space-ship.png"; sourceTree = "<group>"; };
-		70464EC42349DF41003B0150 /* electricity.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = electricity.png; sourceTree = "<group>"; };
 		70464EC52349DF41003B0150 /* diamond.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = diamond.png; sourceTree = "<group>"; };
-		70464EC62349DF41003B0150 /* IMG_2016-11-04 01:35:31.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG_2016-11-04 01:35:31.jpg"; sourceTree = "<group>"; };
-		70464EC72349DF41003B0150 /* ufo (6).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (6).png"; sourceTree = "<group>"; };
 		70464EC82349DF41003B0150 /* meteor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meteor.png; sourceTree = "<group>"; };
-		70464EC92349DF41003B0150 /* crane.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crane.png; sourceTree = "<group>"; };
-		70464ECA2349DF41003B0150 /* planet-earth (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "planet-earth (2).png"; sourceTree = "<group>"; };
-		70464ECB2349DF41003B0150 /* jupiter (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jupiter (1).png"; sourceTree = "<group>"; };
-		70464ECC2349DF41003B0150 /* rec.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rec.png; sourceTree = "<group>"; };
 		70464ECD2349DF41003B0150 /* lander copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lander copy.png"; sourceTree = "<group>"; };
-		70464ECE2349DF41003B0150 /* stop (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stop (1).png"; sourceTree = "<group>"; };
-		70464ECF2349DF41003B0150 /* engagement-ring.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "engagement-ring.png"; sourceTree = "<group>"; };
-		70464ED02349DF41003B0150 /* real-pixel2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "real-pixel2.png"; sourceTree = "<group>"; };
 		70464ED12349DF41003B0150 /* coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coin.png; sourceTree = "<group>"; };
-		70464ED22349DF41003B0150 /* space-ship (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "space-ship (1).png"; sourceTree = "<group>"; };
 		70464ED32349DF41003B0150 /* saturn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saturn.png; sourceTree = "<group>"; };
-		70464ED42349DF41003B0150 /* bullet (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bullet (2).png"; sourceTree = "<group>"; };
-		70464ED52349DF41003B0150 /* play-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play-button.png"; sourceTree = "<group>"; };
-		70464ED62349DF41003B0150 /* coin (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coin (1).png"; sourceTree = "<group>"; };
-		70464ED72349DF41003B0150 /* save.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = save.png; sourceTree = "<group>"; };
-		70464ED82349DF41003B0150 /* Red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red.png; sourceTree = "<group>"; };
-		70464ED92349DF41003B0150 /* Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Purple.png; sourceTree = "<group>"; };
-		70464EDA2349DF41003B0150 /* ufo (7).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ufo (7).png"; sourceTree = "<group>"; };
 		70464EDB2349DF41003B0150 /* space-shuttle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "space-shuttle.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -336,107 +178,28 @@
 			isa = PBXGroup;
 			children = (
 				70464E752349DF41003B0150 /* uranus.png */,
-				70464E762349DF41003B0150 /* bullet.png */,
-				70464E772349DF41003B0150 /* mars (1).png */,
 				70464E782349DF41003B0150 /* first-aid-kit.png */,
-				70464E792349DF41003B0150 /* Teal.png */,
-				70464E7A2349DF41003B0150 /* ufo (4).png */,
-				70464E7B2349DF41003B0150 /* record.png */,
-				70464E7C2349DF41003B0150 /* stop.png */,
-				70464E7D2349DF41003B0150 /* battery.png */,
-				70464E7E2349DF41003B0150 /* space-ship (2).png */,
-				70464E7F2349DF41003B0150 /* bullet (1).png */,
 				70464E802349DF41003B0150 /* flash.png */,
-				70464E812349DF41003B0150 /* degres.png */,
-				70464E822349DF41003B0150 /* ufo (8).png */,
 				70464E832349DF41003B0150 /* satellite.png */,
-				70464E842349DF41003B0150 /* battery (1).png */,
-				70464E852349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn10.jpg */,
 				70464E862349DF41003B0150 /* lander.png */,
-				70464E872349DF41003B0150 /* planet-earth (1).png */,
-				70464E882349DF41003B0150 /* gray.png */,
-				70464E892349DF41003B0150 /* ufo (9).png */,
-				70464E8A2349DF41003B0150 /* IMG_2016-11-06 19:31:21.jpg */,
 				70464E8B2349DF41003B0150 /* planet.png */,
-				70464E8C2349DF41003B0150 /* Lime.png */,
-				70464E8D2349DF41003B0150 /* minuss.png */,
-				70464E8E2349DF41003B0150 /* record (1).png */,
-				70464E8F2349DF41003B0150 /* ufo (5).png */,
 				70464E902349DF41003B0150 /* mars.png */,
 				70464E912349DF41003B0150 /* jupiter.png */,
-				70464E922349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn0.jpg */,
 				70464E932349DF41003B0150 /* wheel.png */,
 				70464E942349DF41003B0150 /* energy.png */,
-				70464E952349DF41003B0150 /* electricity (1).png */,
-				70464E962349DF41003B0150 /* christmas-present (1).png */,
-				70464E972349DF41003B0150 /* categoryicon.png */,
 				70464E982349DF41003B0150 /* rocket-ship.png */,
-				70464E992349DF41003B0150 /* Blue.png */,
-				70464E9A2349DF41003B0150 /* Stop_button_play_pause_music.png */,
-				70464E9B2349DF41003B0150 /* ufo (2).png */,
-				70464E9C2349DF41003B0150 /* rocket-ship (1).png */,
-				70464E9D2349DF41003B0150 /* alien (2).png */,
-				70464E9E2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn2.jpg */,
-				70464E9F2349DF41003B0150 /* chart3.png */,
-				70464EA02349DF41003B0150 /* ufo (3).png */,
-				70464EA12349DF41003B0150 /* home.png */,
-				70464EA22349DF41003B0150 /* diamond (2).png */,
-				70464EA32349DF41003B0150 /* pauseRec.png */,
-				70464EA42349DF41003B0150 /* bullets.png */,
-				70464EA52349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn7.jpg */,
-				70464EA62349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn5.jpg */,
-				70464EA72349DF41003B0150 /* engagement-ring (2).png */,
-				70464EA82349DF41003B0150 /* Grape.png */,
-				70464EA92349DF41003B0150 /* loss.png */,
-				70464EAA2349DF41003B0150 /* audio512x512.png */,
 				70464EAB2349DF41003B0150 /* solar-system.png */,
-				70464EAC2349DF41003B0150 /* chart1.png */,
-				70464EAD2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn4.jpg */,
-				70464EAE2349DF41003B0150 /* engagement-ring (1).png */,
-				70464EAF2349DF41003B0150 /* Record_button_play_stop_music.png */,
-				70464EB02349DF41003B0150 /* Orange.png */,
 				70464EB12349DF41003B0150 /* moon.png */,
-				70464EB22349DF41003B0150 /* IconCategory.png */,
-				70464EB32349DF41003B0150 /* plus (1).png */,
-				70464EB42349DF41003B0150 /* comet.png */,
-				70464EB52349DF41003B0150 /* diamond (1).png */,
-				70464EB62349DF41003B0150 /* Green.png */,
 				70464EB72349DF41003B0150 /* bullet_red.png */,
-				70464EB82349DF41003B0150 /* planet-earth.png */,
-				70464EB92349DF41003B0150 /* error.png */,
-				70464EBA2349DF41003B0150 /* shuffle.png */,
 				70464EBB2349DF41003B0150 /* alien.png */,
-				70464EBC2349DF41003B0150 /* pause.png */,
-				70464EBD2349DF41003B0150 /* profits.png */,
 				70464EBE2349DF41003B0150 /* ufo.png */,
-				70464EBF2349DF41003B0150 /* planet (1).png */,
-				70464EC02349DF41003B0150 /* alien (1).png */,
-				70464EC12349DF41003B0150 /* ufo (1).png */,
 				70464EC22349DF41003B0150 /* christmas-present.png */,
 				70464EC32349DF41003B0150 /* space-ship.png */,
-				70464EC42349DF41003B0150 /* electricity.png */,
 				70464EC52349DF41003B0150 /* diamond.png */,
-				70464EC62349DF41003B0150 /* IMG_2016-11-04 01:35:31.jpg */,
-				70464EC72349DF41003B0150 /* ufo (6).png */,
 				70464EC82349DF41003B0150 /* meteor.png */,
-				70464EC92349DF41003B0150 /* crane.png */,
-				70464ECA2349DF41003B0150 /* planet-earth (2).png */,
-				70464ECB2349DF41003B0150 /* jupiter (1).png */,
-				70464ECC2349DF41003B0150 /* rec.png */,
 				70464ECD2349DF41003B0150 /* lander copy.png */,
-				70464ECE2349DF41003B0150 /* stop (1).png */,
-				70464ECF2349DF41003B0150 /* engagement-ring.png */,
-				70464ED02349DF41003B0150 /* real-pixel2.png */,
 				70464ED12349DF41003B0150 /* coin.png */,
-				70464ED22349DF41003B0150 /* space-ship (1).png */,
 				70464ED32349DF41003B0150 /* saturn.png */,
-				70464ED42349DF41003B0150 /* bullet (2).png */,
-				70464ED52349DF41003B0150 /* play-button.png */,
-				70464ED62349DF41003B0150 /* coin (1).png */,
-				70464ED72349DF41003B0150 /* save.png */,
-				70464ED82349DF41003B0150 /* Red.png */,
-				70464ED92349DF41003B0150 /* Purple.png */,
-				70464EDA2349DF41003B0150 /* ufo (7).png */,
 				70464EDB2349DF41003B0150 /* space-shuttle.png */,
 			);
 			path = Photo;
@@ -503,120 +266,41 @@
 			buildActionMask = 2147483647;
 			files = (
 				70464F252349DF41003B0150 /* ufo.png in Resources */,
-				70464EFD2349DF41003B0150 /* christmas-present (1).png in Resources */,
 				0427935F1DB55969000045E0 /* Main.storyboard in Resources */,
-				70464F2B2349DF41003B0150 /* electricity.png in Resources */,
 				70464EED2349DF41003B0150 /* lander.png in Resources */,
-				70464EE62349DF41003B0150 /* bullet (1).png in Resources */,
-				70464F012349DF41003B0150 /* Stop_button_play_pause_music.png in Resources */,
-				70464F062349DF41003B0150 /* chart3.png in Resources */,
-				70464EE32349DF41003B0150 /* stop.png in Resources */,
 				70464F2F2349DF41003B0150 /* meteor.png in Resources */,
-				70464F302349DF41003B0150 /* crane.png in Resources */,
-				70464EF52349DF41003B0150 /* record (1).png in Resources */,
-				70464F0D2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn5.jpg in Resources */,
-				70464EE82349DF41003B0150 /* degres.png in Resources */,
 				70464EF72349DF41003B0150 /* mars.png in Resources */,
-				70464F112349DF41003B0150 /* audio512x512.png in Resources */,
-				70464EDD2349DF41003B0150 /* bullet.png in Resources */,
-				70464F402349DF41003B0150 /* Purple.png in Resources */,
-				70464F362349DF41003B0150 /* engagement-ring.png in Resources */,
-				70464F3D2349DF41003B0150 /* coin (1).png in Resources */,
-				70464F1D2349DF41003B0150 /* Green.png in Resources */,
-				70464F1C2349DF41003B0150 /* diamond (1).png in Resources */,
-				70464F262349DF41003B0150 /* planet (1).png in Resources */,
 				70464E722349DA5E003B0150 /* MyParticleExplotion2.sks in Resources */,
 				70464E6C2349DA5E003B0150 /* Octopus.png in Resources */,
-				70464F2D2349DF41003B0150 /* IMG_2016-11-04 01:35:31.jpg in Resources */,
-				70464F0B2349DF41003B0150 /* bullets.png in Resources */,
-				70464EEE2349DF41003B0150 /* planet-earth (1).png in Resources */,
-				70464F172349DF41003B0150 /* Orange.png in Resources */,
 				70464E6E2349DA5E003B0150 /* StarField.sks in Resources */,
-				70464EF12349DF41003B0150 /* IMG_2016-11-06 19:31:21.jpg in Resources */,
-				70464F192349DF41003B0150 /* IconCategory.png in Resources */,
-				70464F3C2349DF41003B0150 /* play-button.png in Resources */,
-				70464EE12349DF41003B0150 /* ufo (4).png in Resources */,
-				70464EFC2349DF41003B0150 /* electricity (1).png in Resources */,
-				70464F032349DF41003B0150 /* rocket-ship (1).png in Resources */,
-				70464EE92349DF41003B0150 /* ufo (8).png in Resources */,
-				70464F0C2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn7.jpg in Resources */,
 				70464EFB2349DF41003B0150 /* energy.png in Resources */,
-				70464EE42349DF41003B0150 /* battery.png in Resources */,
-				70464F052349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn2.jpg in Resources */,
-				70464F392349DF41003B0150 /* space-ship (1).png in Resources */,
-				70464F1A2349DF41003B0150 /* plus (1).png in Resources */,
 				70464E712349DA5E003B0150 /* MyParticleExplotion.sks in Resources */,
-				70464F272349DF41003B0150 /* alien (1).png in Resources */,
 				70464F382349DF41003B0150 /* coin.png in Resources */,
 				70464EFA2349DF41003B0150 /* wheel.png in Resources */,
-				70464F0A2349DF41003B0150 /* pauseRec.png in Resources */,
-				70464EF42349DF41003B0150 /* minuss.png in Resources */,
-				70464EF62349DF41003B0150 /* ufo (5).png in Resources */,
-				70464F332349DF41003B0150 /* rec.png in Resources */,
-				70464F002349DF41003B0150 /* Blue.png in Resources */,
-				70464F232349DF41003B0150 /* pause.png in Resources */,
-				70464EEF2349DF41003B0150 /* gray.png in Resources */,
 				70464F182349DF41003B0150 /* moon.png in Resources */,
-				70464F022349DF41003B0150 /* ufo (2).png in Resources */,
 				70464E702349DA5E003B0150 /* MainPageBackGround.jpg in Resources */,
-				70464F142349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn4.jpg in Resources */,
 				70464EDC2349DF41003B0150 /* uranus.png in Resources */,
-				70464EF32349DF41003B0150 /* Lime.png in Resources */,
-				70464F372349DF41003B0150 /* real-pixel2.png in Resources */,
-				70464F282349DF41003B0150 /* ufo (1).png in Resources */,
 				70464F1E2349DF41003B0150 /* bullet_red.png in Resources */,
-				70464F092349DF41003B0150 /* diamond (2).png in Resources */,
-				70464F352349DF41003B0150 /* stop (1).png in Resources */,
 				70464EF82349DF41003B0150 /* jupiter.png in Resources */,
-				70464EF02349DF41003B0150 /* ufo (9).png in Resources */,
-				70464EE02349DF41003B0150 /* Teal.png in Resources */,
-				70464EEB2349DF41003B0150 /* battery (1).png in Resources */,
-				70464F1B2349DF41003B0150 /* comet.png in Resources */,
-				70464F3F2349DF41003B0150 /* Red.png in Resources */,
 				70464F122349DF41003B0150 /* solar-system.png in Resources */,
-				70464F3B2349DF41003B0150 /* bullet (2).png in Resources */,
-				70464EEC2349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn10.jpg in Resources */,
-				70464F0F2349DF41003B0150 /* Grape.png in Resources */,
-				70464F212349DF41003B0150 /* shuffle.png in Resources */,
-				70464EFE2349DF41003B0150 /* categoryicon.png in Resources */,
 				70464F2C2349DF41003B0150 /* diamond.png in Resources */,
-				70464F312349DF41003B0150 /* planet-earth (2).png in Resources */,
-				70464F1F2349DF41003B0150 /* planet-earth.png in Resources */,
 				70464F3A2349DF41003B0150 /* saturn.png in Resources */,
 				70464E532349D945003B0150 /* Assets.xcassets in Resources */,
 				70464F292349DF41003B0150 /* christmas-present.png in Resources */,
 				70464E6D2349DA5E003B0150 /* spark.png in Resources */,
-				70464F202349DF41003B0150 /* error.png in Resources */,
-				70464EE22349DF41003B0150 /* record.png in Resources */,
-				70464F242349DF41003B0150 /* profits.png in Resources */,
 				70464F222349DF41003B0150 /* alien.png in Resources */,
 				042793641DB55969000045E0 /* LaunchScreen.storyboard in Resources */,
 				70464E6A2349DA5E003B0150 /* Actions.sks in Resources */,
-				70464F0E2349DF41003B0150 /* engagement-ring (2).png in Resources */,
-				70464EF92349DF41003B0150 /* ir.hamraah.app.hamraah.dars.amn0.jpg in Resources */,
 				70464F422349DF41003B0150 /* space-shuttle.png in Resources */,
-				70464F412349DF41003B0150 /* ufo (7).png in Resources */,
 				70464EE72349DF41003B0150 /* flash.png in Resources */,
 				70464F2A2349DF41003B0150 /* space-ship.png in Resources */,
 				70464EDF2349DF41003B0150 /* first-aid-kit.png in Resources */,
-				70464F132349DF41003B0150 /* chart1.png in Resources */,
-				70464F042349DF41003B0150 /* alien (2).png in Resources */,
-				70464F2E2349DF41003B0150 /* ufo (6).png in Resources */,
 				70464EEA2349DF41003B0150 /* satellite.png in Resources */,
 				70464E6F2349DA5E003B0150 /* GameScene.sks in Resources */,
-				70464F082349DF41003B0150 /* home.png in Resources */,
 				70464EFF2349DF41003B0150 /* rocket-ship.png in Resources */,
 				70464F342349DF41003B0150 /* lander copy.png in Resources */,
-				70464F322349DF41003B0150 /* jupiter (1).png in Resources */,
 				70464EF22349DF41003B0150 /* planet.png in Resources */,
-				70464F152349DF41003B0150 /* engagement-ring (1).png in Resources */,
-				70464F3E2349DF41003B0150 /* save.png in Resources */,
-				70464F162349DF41003B0150 /* Record_button_play_stop_music.png in Resources */,
-				70464F072349DF41003B0150 /* ufo (3).png in Resources */,
-				70464F102349DF41003B0150 /* loss.png in Resources */,
 				70464E6B2349DA5E003B0150 /* beep22.mp3 in Resources */,
-				70464EDE2349DF41003B0150 /* mars (1).png in Resources */,
-				70464EE52349DF41003B0150 /* space-ship (2).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
