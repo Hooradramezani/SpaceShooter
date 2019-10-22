@@ -2,5 +2,4 @@
 
 Shoter Game
 
-Framwork:
-spritkit
+Spritkit
