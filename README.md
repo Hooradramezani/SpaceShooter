@@ -1,5 +1,5 @@
 # SpaceShooter
 
-Shoter Game
+-swift
 
-Spritkit
+-spritkit
